@@ -2,9 +2,13 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'puma/puma'
+tap 'd12frosted/emacs-plus'
 
 brew 'the_silver_searcher'
 brew 'coreutils'
+brew 'emacs-plus'
+brew 'fasd'
+brew 'fzf'
 brew 'node'
 brew 'python'
 brew 'python3'
